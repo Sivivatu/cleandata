@@ -11,7 +11,7 @@ This repository contains next files:
 * *data1.txt* - first data set produced by run_analysis.R and described in more details in the code book
 * *data2.txt* - second data set produced by the script
 
-run_analysis.R doesn't require anything for its work. It downloads and unpacks all necessary data from [link](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+run_analysis.R doesn't require anything for its work. It downloads and unpacks all necessary data from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 if it doesn't exist yet. Then it reads the data, transforms it in the following way:
 
 1. Merges the training and the test sets to create one data set
